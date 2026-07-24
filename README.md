@@ -7,6 +7,7 @@ AIプロダクトの開発・運営をしています。個人開発で90本以�
 | サービス | 内容 |
 |---|---|
 | [Burning Tribe](https://burningtribe.tokyo/) | 運営会社。中小企業向けAI導入支援 |
+| [Review Growth AI](https://burningtribe.tokyo/review-growth-ai-monitor/) | Google口コミの返信をAIが下書きし、店舗が承認してから送る店舗向けSaaS(先行モニター受付中) |
 | [AI Craft Campus](https://www.aicraftcampus.jp/) | AI開発を学ぶオンライン学習サイト |
 | [相続バトン](https://souzoku-baton.jp/) | 相続税の簡易シミュレーターと相続コラム |
 | [星詠み AI占い](https://hoshiyomi-ai.jp/) | AI鑑定つきの占いサイト |
